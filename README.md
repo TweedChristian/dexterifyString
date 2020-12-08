@@ -7,5 +7,6 @@ Checks for unicode punctuation, sorry non-english speakers
 
 Characters used: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
-To run: node dexterifyPunctuation.js
+## To Run
+node dexterifyPunctuation.js
 Then paste whatever text you want in
