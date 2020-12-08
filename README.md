@@ -9,6 +9,7 @@ Characters used: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 ## To Run
 node dexterifythepunctuation.js
+
 Then paste whatever text you want in
 
 
