@@ -8,5 +8,9 @@ Checks for unicode punctuation, sorry non-english speakers
 Characters used: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 ## To Run
-node dexterifyPunctuation.js
+node dexterifythepunctuation.js
 Then paste whatever text you want in
+
+
+### Note
+Has nothing to do with dexter the show
